@@ -1,12 +1,11 @@
 # PigaSoga Android App
 <br>
-[![Github All Releases](https://img.shields.io/github/downloads/thedextazlab/nodebb-webview/total.svg)](https://github.com/thedextazlab/nodebb-webview/releases)
+[![Github All Releases](https://img.shields.io/github/downloads/thedextazlab/pigasoga-android/total.svg)](https://github.com/thedextazlab/pigasoga-android/releases)
 
-[![GitHub release](https://img.shields.io/github/release/thedextazlab/nodebb-webview.svg)](https://github.com/ReyKoxha/nodebb-webview/releases)
+[![GitHub release](https://img.shields.io/github/release/thedextazlab/nodebb-webview.svg)](https://github.com/thedextazlab/pigasoga-android/releases)
 
 ### Welcome to the PigaSoga Android App.
-With this code you can create your own Android app to display any website.
-However, our focus is to provide a mobile app for NodeBB.
+This is an Android app for PigaSoga.
 
 ### Features
 - OneSignal push notifications
@@ -18,7 +17,7 @@ However, our focus is to provide a mobile app for NodeBB.
 - Sidebar support
 
 ### Docs
-[Click here to get to the Wiki!](https://github.com/thedextazlab/nodebb-webview/wiki)
+[Click here to get to the Wiki!](https://github.com/thedextazlab/pigasoga-android/wiki)
 
 
 ### Credits
